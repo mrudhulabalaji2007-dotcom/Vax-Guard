@@ -1,0 +1,6 @@
+{
+  "name": "VAXGUARD - Smart Vaccine Cold-Chain Management System",
+  "description": "Administrator-focused vaccine cold-chain management platform with predictive spoilage risk, temperature-aware route planning, and refrigeration failure detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
